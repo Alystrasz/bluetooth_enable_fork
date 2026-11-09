@@ -1,3 +1,7 @@
+## 0.1.8
+* Add Swift Package Manager support on iOS
+* iOS plugin is now pure Swift (minimum iOS 13.0)
+
 ## 0.1.7
 * Update project dependencies
 
