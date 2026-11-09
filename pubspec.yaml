@@ -1,6 +1,6 @@
 name: bluetooth_enable_fork
 description: Flutter plugin to turn on bluetooth within app
-version: 0.1.7
+version: 0.1.8
 homepage: https://github.com/Alystrasz/bluetooth_enable_fork
 
 environment:
@@ -22,4 +22,4 @@ flutter:
         package: com.hui.bluetooth_enable
         pluginClass: BluetoothEnablePlugin
       ios:
-        pluginClass: BluetoothEnablePlugin
+        pluginClass: SwiftBluetoothEnablePlugin
